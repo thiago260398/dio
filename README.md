@@ -19,24 +19,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Título do Projeto: Estética Generativa: Criando Harmonia Visual e Auditiva com IA
+📒 Descrição
+Este projeto explora a estética através da integração de tecnologias de IA generativa para criar conteúdo visual e auditivo altamente atraente e harmonioso.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+🤖 Tecnologias Utilizadas
+IA Generativa: ChatGPT para desenvolvimento de ideias e aprimoramento estético;
+Ferramenta de Edição Visual: Canva para design e composição visual;
+Ferramenta de Síntese de Voz: ElevenLabs para criar narrativas envolventes e esteticamente agradáveis.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+🧐 Processo de Criação
+Utilizei o ChatGPT para gerar conceitos e refinamentos estéticos, criando um roteiro coeso e visualmente atraente. Com o Canva, desenvolvi layouts e composições que refletissem a estética desejada, enquanto o ElevenLabs foi essencial para a criação de uma narração que complementasse harmoniosamente o conteúdo visual.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+🚀 Resultados
+O projeto resultou em um conjunto de conteúdos visuais e auditivos que não apenas capturam a essência estética desejada, mas também oferecem uma experiência imersiva e emocionalmente envolvente para o público-alvo. A combinação de tecnologias generativas e ferramentas de edição permitiu alcançar um resultado final 'natty', que transcende as expectativas tradicionais de criação de conteúdo.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+💭 Reflexão (Opcional)
+Criar algo 'natty' com IA apresenta o desafio fascinante de equilibrar inovação tecnológica com sensibilidade estética. A integração harmoniosa dessas ferramentas não apenas amplia as possibilidades criativas, mas também redefine os padrões de excelência na produção de mídia digital, oferecendo novas perspectivas sobre o que é esteticamente belo e significativo.
 ```
+
+Link para acessar o video/podcast: https://drive.google.com/file/d/1jFqUjtpi-bla8xNMIC16EgXCOnGekv7V/view?usp=drive_link
 
 ### Exemplos e Insigths
 
