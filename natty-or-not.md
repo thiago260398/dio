@@ -1,5 +1,3 @@
-
-
 # Memórias Fragmentadas
 
 ## 📒 Descrição
@@ -28,7 +26,5 @@ História de fundo: Kane Arata era um renomado detetive policial antes de abrir 
 
 ![Memórias Fragmentadas](https://www.bing.com/images/create/a-cidade-futurista-com-kane-arata-em-um-beco-c3a0-noi/1-66944550d8ff4e82a9efeb3fbaeb5d86?id=28FVD2VezpDBGbn5Yv3m5g.CllLf4A%2FbNekmqjhEg9khA&view=detailv2&idpp=genimg&idpclose=1&thid=OIG3.4mz4M6BgM_hBgnXTbIOK&form=SYDBIC)
 
-
-
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 A utilização de IA no processo criativo permite explorar ideias inovadoras e desenvolver conceitos que desafiam as expectativas tradicionais. Este projeto exemplifica como a tecnologia pode ser integrada de maneira criativa para desenvolver narrativas envolventes e visualmente atraentes, mesmo em estágios iniciais de desenvolvimento.
