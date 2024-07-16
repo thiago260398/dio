@@ -47,7 +47,7 @@ Para quem é leigo ao mundo da AI, pode até parecer que o 'computador' faz tudo
 
 - [E-BOOK](https://github.com/GabrieliMendesNicolodi/prompts-for-article-generate-by-ia)
 - [Podcast](https://github.com/GabrieliMendesNicolodi/prompts-for-podcast-generate-by-ia)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [Vídeo (Avatar Virtual)](https://github.com/GabrieliMendesNicolodi/lab-natty-or-not)
 
 ## Links Interessantes
 
