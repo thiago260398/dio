@@ -25,21 +25,22 @@ Olá pessoal, eu sou a Gabrieli e Inspirado na hype _"Natty or Not"_ do fisicult
 A muitos anos (nem tantos assim, pois eu praticamente nasci junto com web...então 😁) bem, voltando ao assunto, por volta da década de 1990, alguém concebeu uma ideia de ligar a informação globalmente, e assim nasceu a World Wide Web.
 
 ## 🤖 Tecnologias Utilizadas
-[chat gpt] Para criação do script
-[D-ID] Para geração da narração do script
-[CapCut] Para edição do vídeo
+
+**ChatGPT**: para criação do script
+**D-ID**: para geração da narração do script
+**CapCut**:ara edição do vídeo
 
 ## 🧐 Processo de Criação
-> Definição do tema do vídeo
-> Geração do script
-> Escolha do avatar e voz
+- Definição do tema do vídeo
+- Geração do script
+- Escolha do avatar e voz
 
 ## 🚀 Resultados
 Utilizando IAs gratuitas como o ChatGPT e outras que disponibilizam recursos free, foi possivel gerar um vídeo com um avatar virtual e narração geradas digitalmente, assista aqui [link] o resultado final.
 
 ## 💭 Reflexão (Opcional)
 
-Para quem é leigo no mundo da AI, pode parecer até fácil, mas exige um certo nível de esforço e dedicação, pois a IA é capaz de fazer coisas incríveis mas ainda ainda precisa da ação  humana para organizar os dados recebidos e ajustar a saída para que o conteúdo gerado seja o mínimo agradável e contenha informações reais, não fantasiadas, ao humano que irá consumir.
+Para quem é leigo ao mundo da AI, pode até parecer que o 'computador' faz tudo, mas o processo ainda exige um certo nível de esforço e dedicação, pois a IA é capaz de fazer coisas incríveis porém ainda precisa da ação humana para organizar os dados recebidos e ajustar a saída para que o conteúdo gerado seja o mínimo agradável e contenha informações que possam ser úteis, não fantasiadas, ao humano que irá consumir.
 
 ### Exemplos e Insigths
 
