@@ -26,15 +26,15 @@ A muitos anos (nem tantos assim, pois eu praticamente nasci junto com web...ent�
 
 ## 🤖 Tecnologias Utilizadas
 
-**ChatGPT**: para criação do script
-**D-ID**: para geração da narração do script
-**CapCut**:ara edição do vídeo
+**ChatGPT**: para criação do script </br>
+**D-ID**: para geração da narração do script </br>
+**CapCut**:ara edição do vídeo</br>
 
 ## 🧐 Processo de Criação
 
-    - Definição do tema do vídeo
-    - Geração do script
-    - Escolha do avatar e voz
+- Definição do tema do vídeo
+- Geração do script
+- Escolha do avatar e voz
 
 ## 🚀 Resultados
 Utilizando IAs gratuitas como o ChatGPT e outras que disponibilizam recursos free, foi possivel gerar um vídeo com um avatar virtual e narração geradas digitalmente, assista aqui [link] o resultado final.
