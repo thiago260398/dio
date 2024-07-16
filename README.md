@@ -4,13 +4,13 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, eu sou a Gabrieli e Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🎯 Bora Pro Desafio!? 💪🤓
 
 ### Objetivos
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
+1. **Explorar IAs Generativas**: Utilizando essas tecnologias para criar conteúdos que sejam o mais realista possível. 
 1. **Potfólio de Projetos**:
     1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
     2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
@@ -19,29 +19,32 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Como a web começou...
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A muitos anos (nem tantos assim, pois eu praticamente nasci junto com web...então 😁) bem, voltando ao assunto, por volta da década de 1990, alguém concebeu uma ideia de ligar a informação globalmente, e assim nasceu a World Wide Web.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[chat gpt] Para criação do script
+[D-ID] Para geração da narração do script
+[CapCut] Para edição do vídeo
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+> Definição do tema do vídeo
+> Geração do script
+> Escolha do avatar e voz
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Utilizando IAs gratuitas como o ChatGPT e outras que disponibilizam recursos free, foi possivel gerar um vídeo com um avatar virtual e narração geradas digitalmente, assista aqui [link] o resultado final.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
+Para quem é leigo no mundo da AI, pode parecer até fácil, mas exige um certo nível de esforço e dedicação, pois a IA é capaz de fazer coisas incríveis mas ainda ainda precisa da ação  humana para organizar os dados recebidos e ajustar a saída para que o conteúdo gerado seja o mínimo agradável e contenha informações reais, não fantasiadas, ao humano que irá consumir.
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
+- [E-BOOK](https://github.com/GabrieliMendesNicolodi/prompts-for-article-generate-by-ia)
+- [Podcast](https://github.com/GabrieliMendesNicolodi/prompts-for-podcast-generate-by-ia)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
