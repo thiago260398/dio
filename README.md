@@ -37,7 +37,7 @@ A muitos anos (nem tantos assim, pois eu praticamente nasci junto com web...ent�
 - Escolha do avatar e voz
 
 ## 🚀 Resultados
-Utilizando IAs gratuitas como o ChatGPT e outras que disponibilizam recursos free, foi possivel gerar um vídeo com um avatar virtual e narração geradas digitalmente, assista aqui [link] o resultado final.
+Utilizando IAs gratuitas como o ChatGPT e outras que disponibilizam recursos free, foi possivel gerar um vídeo com um avatar virtual e narração geradas digitalmente, [assista aqui](https://github.com/GabrieliMendesNicolodi/lab-natty-or-not) o resultado final.
 
 ## 💭 Reflexão (Opcional)
 
