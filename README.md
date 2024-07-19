@@ -1,7 +1,7 @@
 # Podcast sobre Ui Design e IA - Impacto das redes sociais e Ias na saúde mental 
 
 ## 📒 Descrição
-O projeto consiste em uma conversa sobre o impacto das redes socias e Ias na saúde mental.
+O projeto consiste em uma conversa sobre o impacto das redes socias e IAs na saúde mental.
 
 ## 🤖 Tecnologias Utilizadas
 Uso das seguintes tecnologias:
