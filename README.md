@@ -1,5 +1,7 @@
 # E-BOOK Gerado com IA
 
+## PDF para Visualização!
+
 ## 📒 Descrição
 
 Este projeto visa criar um E-BOOK utilizando tecnologias de IA generativa. Usamos ferramentas de IA para gerar texto, imagens e a estrutura do E-BOOK, criando um conteúdo coeso e envolvente.
@@ -7,7 +9,7 @@ Este projeto visa criar um E-BOOK utilizando tecnologias de IA generativa. Usamo
 ## 🤖 Tecnologias Utilizadas
 
 - ChatGPT (para geração de texto)
-- DALL-E (para criação de imagens)
+- Leonardo AI (para criação de imagens)
 - Canva (para montagem e design do E-BOOK)
 
 ## 🧐 Processo de Criação
@@ -31,7 +33,3 @@ Este projeto visa criar um E-BOOK utilizando tecnologias de IA generativa. Usamo
 - **Texto**: Uma narrativa coesa e envolvente dividida em capítulos.
 - **Imagens**: Ilustrações que complementam a história, incluindo uma capa atrativa.
 - **Design**: Um E-BOOK completo, formatado e pronto para leitura.
-
-## 💭 Reflexão (Opcional)
-
-Criar um E-BOOK utilizando IAs generativas foi uma experiência fascinante e desafiadora. A capacidade das IAs de gerar conteúdo realista e coeso demonstra seu potencial para revolucionar a criação de livros e outros materiais escritos. Este projeto mostrou como é possível utilizar tecnologias avançadas para criar conteúdos complexos de maneira simples e acessível.
