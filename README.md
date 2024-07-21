@@ -5,13 +5,13 @@ Este ebook infantil de 10 páginas conta a história de Lila e seu amigo coelho,
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://amma.app)** para criar a arte visual do e-book;
+- IA Generativa **[Gama.app](https://Gamma.app)** para criar a arte visual do e-book;
 - Ferramenta **Visual Studio Code** para edição.
 
 ## 🧐 Processo de Criação
 1. Roteirização: Utilizei o "ChatGPT" para criar a história de Lila e Pippo, desenvolvendo um enredo envolvente e adequado para o público infantil.
-2. Criação de Imagens: O "Leonardo AI" foi usado para gerar ilustrações exclusivas dos personagens e cenários descritos na história.
-3. Design e Edição: A montagem final do ebook foi realizada no Canva, onde organizei o texto e as imagens em um layout atraente e fácil de ler.
+2. Criação de Imagens: O "Gamma.app" foi usado para gerar ilustrações exclusivas dos personagens e cenários descritos na história.
+
 
 ## 🚀 Resultados
 O ebook "A Aventura de Lila na Floresta Encantada" apresenta uma narrativa encantadora acompanhada de ilustrações coloridas e vibrantes. Este projeto demonstra como as IAs Generativas podem ser uma ferramenta poderosa na criação de conteúdos educativos, proporcionando uma experiência rica e envolvente para as crianças.
