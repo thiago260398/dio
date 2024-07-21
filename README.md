@@ -1,51 +1,61 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# E-book Delta Lake a nova esperança dos dados
 
-## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+<p align="center">
+<img 
+    src="https://github.com/vvalcristina/lab-natty-or-not/blob/main/outputs/banner_delta_lake.png"
+    width="400"  
+/>
+</p>
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Este projeto visa criar um E-BOOK sobre Delta Lake no contexto de Engenharia de Dados utilizando tecnologias de IA generativa. Usando ferramentas de IA para gerar texto, imagens e a estrutura do E-BOOK, criando um conteúdo coeso e envolvente totalmente refvisado por mim.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- [ChatGPT](https://chat.openai.com/) 
+- [DreamStudio](https://beta.dreamstudio.ai/generate)
+- [Canva](https://www.canva.com/)
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+1. **Geração do título**
+- Pedi auxílio ao CHATGPT para me sugerir 5 opções de títulos que relacionasse Star Wars e Delta Lake
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+2. **Geração do conteúdo**
+- Com o título já sugerido criei um novo prompt onde pedi a criação de um ebook com o tema informado
+- Na primeira iteração foi fornecido um esboço do ebook
+- E a cada iteração fui pedindo mais detalhes sobre cada um dos capitulos
+
+> ℹ️ Para maiores detalhes leia os prompts em 🧠 [prompts](https://github.com/vvalcristina/lab-natty-or-not/blob/main/prompts/titulo_conteudo.md)
+
+3. **Criação de imagens**
+
+- A capa foi totalmente criada utilizando o Dream Studio através do seguinte prompt:
+- O Dream Studio gerou 4 variações da imagem e a partir dela criei a capa do Ebook com a edição através do Canvas
+
+```
+Delta Lake: new hope for your data. Background: a stellar space with stars 
+and nebulae. Central element: a stylized representation of Delta Lake, as a 
+data lake with gentle waves, surrounded by floating graphs and data symbols.
+Light and shine: rays of light emanating from the center of the lake. 
+Style: a mix of technological elements with an epic touch, inspired by Star Wars.
+Colors: shades of blue, purple and white. 
 ```
 
-### Exemplos e Insigths
+4. **Edição no Canvas**
+- De posse do conteúdo gerado pelo ChatGPT e a imagem pelo Dream Studio iniciei a edição do texto e imagens no Canvas
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+5. **Revisão do conteúdo**
+- Após todo conteúdo montado, foi iniciada a parte de revisão observando os seguintes pontos:
+  - coerência linguística
+  - coerência do conteúdo técnico
+  - encadeamento das ideias
 
-## Links Interessantes
+## 🚀 Resultados
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+- <a href="https://github.com/vvalcristina/lab-natty-or-not/blob/main/outputs/delta_lake_a_nova_esperanca_dos_dados.pdf" title="View PDF now"> 📕Clique aqui para ler o Ebook </a>
+- <a href="https://github.com/vvalcristina/lab-natty-or-not/blob/main/outputs/banner_delta_lake.png" title="Veja a imagem"> 💻 Clique aqui para ver a imagem de capa</a>
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
