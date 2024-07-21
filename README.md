@@ -1,6 +1,13 @@
 # E-book Delta Lake a nova esperança dos dados
 
 
+<p align="center">
+<img 
+    src="https://github.com/vvalcristina/lab-natty-or-not/blob/main/outputs/banner_delta_lake.png"
+    width="400"  
+/>
+</p>
+
 ## 📒 Descrição
 
 Este projeto visa criar um E-BOOK sobre Delta Lake no contexto de Engenharia de Dados utilizando tecnologias de IA generativa. Usando ferramentas de IA para gerar texto, imagens e a estrutura do E-BOOK, criando um conteúdo coeso e envolvente totalmente refvisado por mim.
@@ -22,7 +29,7 @@ Este projeto visa criar um E-BOOK sobre Delta Lake no contexto de Engenharia de 
 - Na primeira iteração foi fornecido um esboço do ebook
 - E a cada iteração fui pedindo mais detalhes sobre cada um dos capitulos
 
-> Para maiores detalhes leia os prompts em [prompts]()
+> ℹ️ Para maiores detalhes leia os prompts em 🧠 [prompts](https://github.com/vvalcristina/lab-natty-or-not/blob/main/prompts/titulo_conteudo.md)
 
 3. **Criação de imagens**
 
@@ -48,6 +55,7 @@ Colors: shades of blue, purple and white.
   - encadeamento das ideias
 
 ## 🚀 Resultados
-- Link do Ebook
-- Link da imagem
+
+- <a href="https://github.com/vvalcristina/lab-natty-or-not/blob/main/outputs/delta_lake_a_nova_esperanca_dos_dados.pdf" title="View PDF now"> 📕Clique aqui para ler o Ebook </a>
+- <a href="https://github.com/vvalcristina/lab-natty-or-not/blob/main/outputs/banner_delta_lake.png" title="Veja a imagem"> 💻 Clique aqui para ver a imagem de capa</a>
 
