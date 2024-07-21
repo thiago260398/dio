@@ -16,7 +16,7 @@ Este ebook infantil de 10 páginas conta a história de Lila e seu amigo coelho,
 ## 🚀 Resultados
 O ebook "A Aventura de Lila na Floresta Encantada" apresenta uma narrativa encantadora acompanhada de ilustrações coloridas e vibrantes. Este projeto demonstra como as IAs Generativas podem ser uma ferramenta poderosa na criação de conteúdos educativos, proporcionando uma experiência rica e envolvente para as crianças.
 
-[LINK PARA O E-BOOK AQUI](lab-natty-or-not/EBOOK/A-Aventura-de-Lila-na-Floresta-Encantada.pdf)
+[LINK PARA O E-BOOK AQUI](https://github.com/DevRobertW/lab-natty-or-not/blob/add-ebook-readme/EBOOK/A-Aventura-de-Lila-na-Floresta-Encantada.pdf)
 
 ## 💭 Reflexão
 Criar este ebook foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos. Foi incrível ver como tecnologias avançadas podem ser usadas para contar histórias que encantam e educam ao mesmo tempo.
