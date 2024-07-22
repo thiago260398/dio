@@ -1,51 +1,36 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Ebook: Java com Inteligência Artificial: Aprenda Back-end de Forma Prática e Moderna ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 115 páginas explora de forma atraente e concisa como aprender Java e utilizar o poder das IAs generativas para auxiliar na explicação de conteúdo, resolução e criação de exercícios para lhe ajudar e ser tornar um desenvolvedor de destaque.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[Copilot AI](https://copilot.microsoft.com/images/create)** para criar a arte visual do e-book;
+- Ferramenta **Textmaker** para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre Java com foco em back-end, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Copilot AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Textmaker, por ser uma ferramenta open-source para edição de texto em LaTeX e gerador de PDF.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O ebook sobre Java está bem estruturado, abordando tópicos fundamentais e avançados de forma clara e didática. Aqui estão os pontos principais:
+
+- Introdução ao Java e suas aplicações: O ebook começa com uma visão geral do Java, suas vantagens e áreas de aplicação. A introdução é envolvente e destaca a relevância da linguagem no desenvolvimento moderno.
+
+- Conceitos de Orientação a Objetos: Explicações sobre classes, objetos, herança, polimorfismo e encapsulamento. Cada conceito é apresentado com exemplos práticos, facilitando o entendimento dos leitores.
+
+- Controle de Fluxo: Instruções detalhadas sobre loops, condicionais e estruturas de controle. Exemplos comentados ajudam a ilustrar o uso desses recursos em situações do dia a dia.
+
+- Desenvolvimento Back-end: Cobertura de frameworks como Spring Boot, criação de APIs RESTful, e a integração de IA em projetos Java. O conteúdo é atual e inclui exemplos práticos.
+
+- Projetos Práticos: Exercícios e projetos reais que ajudam os leitores a aplicar os conhecimentos adquiridos. Cada projeto é descrito passo a passo, com dicas e sugestões para aprofundamento.
+
+[LINK PARA O E-BOOK AQUI](https://github.com/valteciraragao/lab-natty-or-not/blob/main/exemplos/projeto/Ebook-Java.pdf)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e um grande desafio para mim, devido a linguaguem Java me fascinar e utilizarei esse ebook para aprofundar meus estudos e criar um Python para reforçar o conteúdo aprendido nesse bootcamp.
+.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
