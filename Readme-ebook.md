@@ -20,3 +20,5 @@ Realmente, para obter o resultado desejado, é necessário uma boa dose de engen
 Tirando isso, temos poderosas ferramentas a nossa disposição!!!
 Claro que, teremos sempre novos desafios a superar a cada incremento tecnologico...
 Principalmente em questões éticas. Mas, o "casamento" humano + máquina, pode e irá gerar bons frutos!!
+
+https://github.com/Osmar-Araujo/lab-natty-or-not/blob/main/ebook.md
