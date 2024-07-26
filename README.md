@@ -1,51 +1,66 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+<h1 align="center" style="color:#E94D5F">🤖 Estética e Inovação com IA 🚀</h1>
 
-## 🚀 Introdução
+<h2 align="center" style="color:#E94D5F">📒 Descrição</h2>
 
-> Woooow! Look at this 👀
+Este projeto foi desenvolvido com o objetivo de criar um conteúdo estético e impactante utilizando Inteligências Artificiais (IAs) generativas. O foco foi em explorar e integrar ferramentas avançadas para produzir um resultado visualmente agradável e funcional.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+ <br>
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+<h2 align="center" style="color:#E94D5F">🤖 Tecnologias Utilizadas</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft%20Bing-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Bing"/> <br> Utilizado para pesquisa e coleta de dados relevantes para o projeto. 
+    <br> <BR>
+<img src="https://img.shields.io/badge/Gamma-000000?style=for-the-badge&logo=gamma&logoColor=white" alt="Gamma"/><br>
+ Utilizado para criar apresentações e visualizações de dados de forma eficiente e estética.<br>
+    <br>
+<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/><br>
+Utilizado para geração de texto e suporte no desenvolvimento do projeto. <br>
+    <br>
+    <img src="https://img.shields.io/badge/Studio%20D--ID-FF5E5B?style=for-the-badge&logo=d-id&logoColor=white" alt="Studio D-ID"/><br>
+ Utilizado para criar vídeos realistas com avatares gerados por IA.
+  <br>
+</p>
+ <br>
+<h2 align="center" style="color:#E94D5F">🧐 Processo de Criação</h2>
+<p align="center">
+O processo de criação envolveu várias etapas, desde a concepção inicial até a implementação final:
+</p>
 
-### Objetivos
+<li><b>Planejamento</b>: Definição dos objetivos do projeto e das ferramentas a serem utilizadas.</li>
+<li><b>Pesquisa</b>: Utilização do Microsoft Bing para coletar informações e inspirações.</li>
+<li><b>Desenvolvimento</b>: Utilização do ChatGPT para auxiliar na geração de conteúdo textual e soluções criativas.</li>
+<li><b>Apresentação</b>: Uso do Gamma para criar apresentações visuais e comunicar os resultados de maneira eficaz.</li>
+<li><b>Criação de Vídeos</b>: Utilização do Studio D-ID para criar vídeos com avatares gerados por IA.</li>
+<li><b>Refinamento</b>: Revisão e ajuste do conteúdo para garantir um resultado estético e funcional.</li>
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+ <br>
 
-### Template
+<h2 align="center" style="color:#E94D5F">🚀 Resultados</h2>
+<p align="center">
+Os principais resultados deste projeto incluem:
+</p>
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+<li>Criação de um conteúdo esteticamente agradável e impactante.</li>
+<li>Integração eficiente de ferramentas de IA para otimizar o processo de desenvolvimento.</li>
+<li>Desenvolvimento de um workflow eficaz para futuros projetos utilizando ferramentas similares.</li><BR><BR>
+<li>Apresentação do projeto em vídeo gerado por IA:</li>
+https://studio.d-id.com/share?id=b2fe54bcbe1ea7bcdc77834f61764e38
+    <BR>    <br>
+<li>Apresentação do projeto no Gamma: </li>
+https://gamma.app/embed/nt04c8ojn9casvh
 
-## 📒 Descrição
-Breve descrição do seu projeto
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+ <br>
+<h2 align="center" style="color:#E94D5F">💭 Reflexão</h2>
+<p align="center">
+Criar algo 'natty' com o auxílio de IA foi um desafio interessante. Aprender a balancear a intervenção humana com as sugestões automatizadas das ferramentas como o ChatGPT exigiu uma curva de aprendizado, mas o resultado final mostrou-se extremamente gratificante.
+</p>
+<br>
+<br>
+<h2 align="center" style="color:#E94D5F">Meus Contatos</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=White" alt="Email"/>
+</div>
