@@ -20,22 +20,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# AVENTURAS NA INTELIGÊNCIA ARTIFICIAL ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto de E-book utilizando IA com liguagem simples para atender todos  os públicos
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT, Ideogram e Power Point
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1- Utilização do  ChatGPT para gerar  um titulo  com  relação  entre tecnologia e animação
+2- Utilização do  Ideogram para gerar Imagem com  relação entre tecnologia e animação
+3- Utilização  do  ChatGpt  para gerar o conteudo com  titulos  e subtitulos
+4- Utilização  do PowerPoint para colocar o  conteudo organizado  e formato gerando O E-book
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Link para o projeto
+https://github.com/NaldoCostaDev/ebook-DIO
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+a maior dificuldade foi  rebuscar os prompts para gerar um conteudo  facil  de ser entendido que ao mesmo  tempo nao  ficasse tão  robotizaodo. 
 ```
 
 ### Exemplos e Insigths
