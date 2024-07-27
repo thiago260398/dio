@@ -8,9 +8,12 @@ ChatGPT
 Leonardo.AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Utilizei o ChatGPT para criar o texto da forma mais natural utilizando metodos de ele atuar como um escritor brasileiro, para a imagem da capa utilizei o Leonardo.ai para pegar caracteristicas das musicas brasileiras.
 
 ## 🚀 Resultados
+
+Batidas do Brasil: Maiores Hits e Tendências da Música Brasileira
 
 ![Default_Vibrant_illustrations_showcasing_the_dynamic_spirit_of_3](https://github.com/user-attachments/assets/e56f2310-8d30-4bd3-95b8-7a6aecd7731b)
 
@@ -31,6 +34,3 @@ Música Alternativa e a Nova MPB
 A Música Popular Brasileira (MPB) continua a se reinventar, com novos artistas trazendo frescor e inovação ao gênero. Nomes como Silva, Liniker e os Caramelows, e Tulipa Ruiz estão à frente dessa nova onda. Eles misturam elementos tradicionais com novas influências, criando uma sonoridade única. Este capítulo é dedicado a explorar a nova MPB, os artistas que estão redefinindo o gênero e as canções que se tornaram hinos de uma nova geração.
 
 
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
