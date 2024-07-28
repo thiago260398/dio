@@ -4,48 +4,46 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
 ### Objetivos
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+**Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
 
-### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🤖 PROJETO "Explicação às crianças sobre o uso de IAs" 🎯 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Nesta oportunidade, a ideia era criar uma apresentação sobre o futuro das IAs Generativas para crianças de uma forma simples e criativa, assim como incentivar eles a sentir interesse pelo uso das IAs. Esta apresantação foi feita por um personagem fictício. Este personagem explicou as características, uso, vantagens de uma forma envolvente e inovadora.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+✔ IA Generativa **[ChatGPT](https://chat.openai.com)**: para a criação dos textos falados pela personagem.
+
+✔ IA Generativa **[ElevenLabs](https://elevenlabs.io/)**: para geração da voz.
+
+✔ IA Generativa **[Leonardo.AI](https://leonardo.ai/)**: para geração da imagem que depois foi usada como avatar no D-ID.
+
+✔ IA Generativa **[D-ID](https://www.d-id.com)**: para gerar o video mediante a sintetização de voz e a imagem do avatar virtual.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+✔ **Avatar**: Na criação de imagens foi usado o **Leonardo.AI**. O personagem que ele gerou a partir do meu promt. A imagem gerada usando Leonardo.IA foi usada como avatar no D-ID.
+
+✔ **Voz**: O procedimento para gerar a voz foi feito mediante o uso de **ElevenLabs**, usando o processo de text-to-speech.
+
+✔ **Roteirização**: Para escrever e revisar o roteiro do conteúdo do video foi usado **ChatGPT**, algumas intervenções foram feitas para ajustar o texto debido à limitação de caracteres do D-ID.
+
+✔ **Vídeo**: O uso do **D-ID** foi muito importante para poder gerar o video mediante a sintetização de voz e a imagem do avatar.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo é caracterizado pelo uso de linguagem simples e exemplos fáceis de entender, destacando o potencial transformador das IAs com o objetivo de incentivar crianças a usá-las.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
+## 🚀 Link do video
+➡️ [Faça click aqui para assistir o vídeo](https://studio.d-id.com/share?id=c650882287fac2636ff2d72a24482559&utm_source=copy) 📽️
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Experiência cheia de aprendizado, por meio da qual foi possível vivenciar como as IAs facilitam, dão segurança, apoio e agilizam o tempo investido em diferentes áreas, possibilitando alcançar maior produtividade e resultados aprimorados.
+Esse projeto me ajudou a sentir mais vontade de aprofundar meus conhecimentos sobre IA.
