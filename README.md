@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Freud e Nietzsche na Cozinha Mágica
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 10 páginas conta a história de um coelho marrom chamado Freud e um coelho cinza chamado Nietzsche em uma discussão filosófica sobre cenouras e maçãs.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT4o](https://chat.openai.com)** para criação do texto da história;
+- IA Generativa **[Copilot Designer](https://www.bing.com/images/create?FORM=GENILP)** para criar as imagens do e-book;
+- Ferramenta **[Canva](https://www.canva.com/)** para edição do e-book e geração da imagem da capa via IA do Canva.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "ChatGPT4o" para criar o texto solicitando o papel de um autor de histórias infantis em quadrinhos. Elaborei o prompt com as descrições das personagens, do cenário e do contexto em que a história se passa. Com base nos painés gerados pelo "ChatGPT4o" foram inseridos os prompts no "Copilot Designer" no "BING" para  criar as imagens. Foi necessária a inclusão de um contexto no início do prompt para alcançar as características desejadas. "Usando um estilo de história infantil...". Para concluir, a elaboração do e-book foi realizada no "Canva", uma excelente ferramenta onlina para criação de conteúdo que possui vários templates disponíveis. Para gerar a imagem da capa foi utilizada a própria IA do "Canva" sem precisar trocar de ferramenta.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Este e-book apresenta uma história infantil sobre dois irmãos coelhos que tem o objetivo ajudar crianças a provarem comidas diferentes para uma alimentação mais saudável.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[LINK PARA O E-BOOK AQUI](https://www.canva.com/design/DAGMAIYzRb0/7dSgauiYnAA_aLy_e7IHLg/view?utm_content=DAGMAIYzRb0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+A criação deste e-book foi uma experência nova na construção de conteúdo didático com o uso de ferramentas de edição e IA Generativa que facilitaram muito o processo.
