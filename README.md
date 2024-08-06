@@ -16,6 +16,8 @@ Depois fiz um video unindo todas as imagens criadas no Microsoft Clipchamp, narr
 
 ## 🚀 Resultados
 Um video curto que conta a história de um gato triste recebendo a ajuda de um amigo.
+Link do **[video](https://drive.google.com/file/d/1sKo3jdJZk_ACiT8ibVJlEtXDD_ZnZcOr/view?usp=sharing)**
+
 
 ## 💭 Reflexão (Opcional)
 O desafio foi bem interessante porque permitiu que eu explorasse uma nova ferramenta que foi o Microsoft Designer.
