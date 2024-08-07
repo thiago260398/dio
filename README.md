@@ -34,6 +34,9 @@ Este projeto é um e-book intitulado "Hackers: Os Perigos e Como se Proteger", q
 
 - **E-book Completamente Desenvolvido**: O projeto resultou em um e-book de cinco capítulos, cada um ilustrado com imagens temáticas e contendo informações detalhadas sobre segurança cibernética.
 - **Imagens Ilustrativas de Alta Qualidade**: As imagens geradas com o DALL-E adicionam um elemento visual que enriquece a experiência do leitor, tornando o e-book mais atraente e informativo.
-- **Educação e Conscientização**: O e-book oferece uma introdução abrangente à segurança cibernética, fornecendo informações valiosas para usuários de tecnologia de to[Uploading Hacker-e-book.odt…]()
-dos os níveis de conhecimento.
+- **Educação e Conscientização**: O e-book oferece uma introdução abrangente à segurança cibernética, fornecendo informações valiosas para usuários de tecnologia de todos os níveis de conhecimento.
+
+
+[e-book](https://github.com/user-attachments/files/16516852/Hacker-e-book.odt)
+
 
