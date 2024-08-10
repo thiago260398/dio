@@ -1,5 +1,5 @@
 
-```markdown
+```
 # 🌟 Natty or Not: Explorando o Poder das IAs Generativas na Criação de um Ebook
 
 ## 📒 Descrição
