@@ -26,11 +26,12 @@ De forma simples foram geradas múltiplas imagens com uma riqueza impressionante
 No entanto, foi identificado um problema recorrente: algumas características, como pupilas, mãos e pés, ainda são difíceis d~so um desafio de replicação precisa para IA. É necessário fornecer descrições mais detalhadas do que o convencional para alcançar melhores resultados. De toda forma, **o resultado é tão impressionante, que nem mesmo se nota que uma das imagens é uma modelo e influenciadora chamada de Anna Sitkina.** Todas elas, poderiam ser alguém, com uma vida comum na internet e ter seus perfis alimentados constantemente, sem se quer sair do lugar.
 
 
-<img src="https://github.com/user-attachments/assets/27327746-18f9-4fcc-b817-61738308ed4b" width="500" height="750">
-<img src="https://github.com/user-attachments/assets/76a8ca14-72c3-4c7b-a923-18225b4b2a5f" width="494" height="750">
-<img src="https://github.com/user-attachments/assets/27c2c4d2-1aa2-46df-b754-b02a4ca2f984" width="330" height="320">
-<img src="https://github.com/user-attachments/assets/a98b8c23-259e-444e-862f-74b6f3d617b1" width="330" height="320">
-<img src="https://github.com/user-attachments/assets/d3f07c6b-3ef9-48e3-99b7-a991e61183b2" width="330" height="320">
+<img src="https://github.com/user-attachments/assets/27327746-18f9-4fcc-b817-61738308ed4b" width="400" height="610">
+<img src="https://github.com/user-attachments/assets/76a8ca14-72c3-4c7b-a923-18225b4b2a5f" width="394" height="610">
+<img src="https://github.com/user-attachments/assets/27c2c4d2-1aa2-46df-b754-b02a4ca2f984" width="399" height="400">
+<img src="https://github.com/user-attachments/assets/a98b8c23-259e-444e-862f-74b6f3d617b1" width="397" height="400">
+<img src="https://github.com/user-attachments/assets/d3f07c6b-3ef9-48e3-99b7-a991e61183b2" width="800" height="800">
+
 
 
 
