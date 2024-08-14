@@ -20,23 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# E-book: Vamos viajar? ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste e-book você vai encontrar imagens para colorir de monumentos famosos ao redor do mundo e junto com ele sua descrição e algumas curiosidades. Aprenda e se divirta!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Geração de imagem: Bing Images Creator, Chatbots: Gemini
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inicialmente listei em um bloco de notas os principais pontos turísticos ao redor do mundo e defini alguns critérios como número de páginas, cada folha conteria apenas uma imagem, ordem dos pontos turísticos. Em segundo momento fiz a escolha pelo Bing images creator para gerar as imagens do e-book. Para organizar, criei uma coleção: "atrações turísticas" no próprio Bing.Iniciei a geração das imagens.Usando Gemini , gerei a descrição para cada ponto turistíco, com um poucos da ua historia e curiosidades.No passo seguinte foi realizar a montagem do e-book para isso usei o Microsft Design, copie todas as imagens geradas e comecei a montagem. Uma página seria a parte de texto daquele material e na outra página a  imagem do ponto turístico. Realizei o dowload das páginas e usei o IlovePDF para unir os arquivos de imagem e transformá-los em um PDF.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+E-book para colorir dos principais pontos turísticos com a história e curiosidades sobre eles.
+ ebook final.pdf 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Infelizmente meu computador não colabora e ao usar essas ferramentas acaba travando muito, principalmente as ferramentas de designer. Mas as IAs são uma facilidade imensa e facilitam o trabalho bem como aperfeiçoam tudo.
 
 ### Exemplos e Insigths
 
