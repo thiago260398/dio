@@ -32,7 +32,7 @@ DALL-E
 utilizei prompt para a criação das imagens 
 
 ## 🚀 Resultados
-[foto](foto1.jpeg)
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
