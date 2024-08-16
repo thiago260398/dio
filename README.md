@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Imagens Realista ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Imagens realistas criadas por IA são geradas utilizando algoritmos avançados de aprendizado de máquina e redes neurais. Essas tecnologias permitem que a IA analise e aprenda a partir de grandes conjuntos de dados visuais, resultando em imagens que podem ser quase indistinguíveis das fotografias reais. Essas imagens são usadas em diversas áreas, como design, entretenimento, publicidade e até mesmo em pesquisas científicas, proporcionando novas possibilidades criativas e práticas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+DALL-E
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+utilizei prompt para a criação das imagens 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
