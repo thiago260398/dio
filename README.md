@@ -1,51 +1,33 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IA versus Humanos ou Apenas Hibridismo?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+### Trabalho de Conclusão do curso: 
+Utilize as tecnologias de IA Generativa para criar conteúdos que sejam o mais realista possível.
+
+### Desafio pessoal
+Para concluir essa tarefa quis desafiar-me com a criação de algo que realmente testasse o próprio desafio e, ao mesmo tempo, me aprofundasse no tema. Não queria apenas concluir o curso, mas também criar algo que agregasse valor na minha trajetória.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* [ChatGpt](https://www.chatgpt.com)
+* [Gemini](https://www.gemini.google.com)
+* [GptZero](https://www.gptzero.me)
+* [Easy Diffusion](https://www.easydiffusion.github.io)
+* [LibreOffice](https://www.libreoffice.org)
+* [Linux Ubuntu](https://www.ubuntu.com)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+De maneira dissertativa e em conjunto com o ChatGpt elaborei o texto base para posteriormente realizar uma engenharia reversa do próprio conteúdo para dessa forma quantificar o resultado obtido.
+Escolhi para a análise e identificação de utilização de IA duas ferramentas, o Gemini que é uma IA mais textual e expressiva, similar ao ChatGpt, e para uma análise mais avançada e técnica utilizei o GptZero.
+Para a criação da arte de capa, foi utilizado o Easy Diffusion, por ser fácil de instalar e usar.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Em resumo, o material gerado apresentou uma combinação harmoniosa de inteligência humana e artificial, resultando em um conteúdo de alta qualidade e relevância.
+Os testes resultantes da análise do conteúdo comprovou e embasou a tese apresentada, também como, que mesmo um humano possui um "conhecimento artificial" que foi confundido como "inteligência artificial".
+
+## Material gerado
+Acesse o material gerado pelo link a seguir:
+
+[IAs Generativas por Douglas Fiedler](/exemplos/ia-generativas-por-douglas-fiedler.pdf)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+O desafio em criar algo com IA foi desafiador, principalmente porque eu não queria apenas criar algo a esmo, mas um resultado que demonstrasse o quanto o conteúdo abordado no curso é significativo. Esta experiência me permitiu me aprofundar melhor nas ferramentas além de elaborar uma tese, testá-la e obter um resultado positivo defendendo e embasando-a com os materiais apresentandos.
