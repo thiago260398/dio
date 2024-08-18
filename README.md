@@ -1,7 +1,7 @@
 # IA versus Humanos ou Apenas Hibridismo?
 
 ## 📒 Descrição
-### Trabalho de Conclusão do curso: 
+### Trabalho de Conclusão do curso: [Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3](https://web.dio.me/track/bootcamp-nexa-fundamentos-de-ia-generativa-e-claude-3)
 Utilize as tecnologias de IA Generativa para criar conteúdos que sejam o mais realista possível.
 
 ### Desafio pessoal
