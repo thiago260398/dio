@@ -15,4 +15,4 @@ Na criação da imagem utilizei algumas características do meio ambiente do Bra
 Segue links da apresentação https://github.com/DeCesar70/lab-natty-or-not/blob/main/teste1.mp4 e da ilustração https://github.com/DeCesar70/lab-natty-or-not/blob/main/MTB_Entardecer.jpg
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Utilizei as ferramentas acima descritas para criar uma apresentação que chamasse a atenção das pessoas e uma ilustração que mostrasse um pouco do hobbie que pratico para as pessoas se inspirarem.
