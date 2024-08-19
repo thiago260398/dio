@@ -12,7 +12,7 @@ Na apresentação utilizei algumas palavras chaves e solicitei que a IA fizesse 
 Na criação da imagem utilizei algumas características do meio ambiente do Brasil.
 
 ## 🚀 Resultados
-Segue links da apresentação teste1.mp4 e da ilustração MTB_Entardecer.jpg
+Segue links da apresentação https://github.com/DeCesar70/lab-natty-or-not/blob/main/teste1.mp4 e da ilustração https://github.com/DeCesar70/lab-natty-or-not/blob/main/MTB_Entardecer.jpg
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
