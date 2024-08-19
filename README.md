@@ -14,5 +14,5 @@ Na criação da imagem utilizei algumas características do meio ambiente do Bra
 ## 🚀 Resultados
 Segue links da apresentação https://github.com/DeCesar70/lab-natty-or-not/blob/main/teste1.mp4 e da ilustração https://github.com/DeCesar70/lab-natty-or-not/blob/main/MTB_Entardecer.jpg
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Utilizei as ferramentas acima descritas para criar uma apresentação que chamasse a atenção das pessoas e uma ilustração que mostrasse um pouco do hobbie que pratico para as pessoas se inspirarem.
