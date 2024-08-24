@@ -27,7 +27,7 @@ Os testes resultantes da análise do conteúdo comprovou e embasou a tese aprese
 ## Material gerado
 Acesse o material gerado pelo link a seguir:
 
-[IAs Generativas por Douglas Fiedler](/exemplos/ia-generativas-por-douglas-fiedler.pdf)
+[IAs Generativas por Douglas Fiedler](/exemplos/ias-generativas-por-douglas-fiedler.pdf)
 
 ## 💭 Reflexão (Opcional)
 O desafio em criar algo com IA foi desafiador, principalmente porque eu não queria apenas criar algo a esmo, mas um resultado que demonstrasse o quanto o conteúdo abordado no curso é significativo. Esta experiência me permitiu me aprofundar melhor nas ferramentas além de elaborar uma tese, testá-la e obter um resultado positivo defendendo e embasando-a com os materiais apresentandos.
