@@ -4,8 +4,7 @@
 Projeto de criação de um ChatBot por meio da API do Googlem Gemini.
 
 ## 🤖 Tecnologias Utilizadas
-Google Gemini API
-Python
+Google Gemini API e Python
 
 ## 🧐 Processo de Criação
 A ideia de criar um chat com memória de contexto surgiu da necessidade de melhorar a interação entre usuários e IAs, permitindo que a IA 'lembre' de conversas anteriores para proporcionar uma experiência mais personalizada e eficiente.
