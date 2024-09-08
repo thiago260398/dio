@@ -40,7 +40,7 @@ Aqui está a história de Daniel reescrita usando Markdown:
 
 ## 1. **Daniel e seus amigos recusam a comida do rei (Daniel 1:8-16)**
 
-<img src="https://github.com/user-attachments/assets/71a3183b-34a6-473c-a7c6-4466ff87a484" min-width="300px" max-width="500px" width="400px" align="center">
+<img src="https://github.com/user-attachments/assets/71a3183b-34a6-473c-a7c6-4466ff87a484" min-width="250px" max-width="400px" width="300px" align="center">
 <br>
 Daniel, junto com seus três amigos Shadrach, Meshach e Abednego, foi levado como cativo para a Babilônia. Eles foram escolhidos para serem treinados e servirem no palácio do rei Nabucodonosor. O rei ofereceu a eles comida e vinho da sua própria mesa, mas Daniel decidiu não se contaminar com as iguarias do rei, preferindo uma dieta simples de vegetais e água. Ele pediu ao chefe dos eunucos para permitir que ele e seus amigos seguissem essa dieta por dez dias. Ao final do período, Daniel e seus amigos estavam mais saudáveis e mais fortes do que os outros jovens que comiam a comida do rei. Essa fidelidade a Deus lhes deu sabedoria e conhecimento, fazendo com que fossem altamente respeitados na corte babilônica.
 
