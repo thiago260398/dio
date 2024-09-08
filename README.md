@@ -54,14 +54,14 @@ O rei Nabucodonosor teve um sonho perturbador que ninguém conseguia interpretar
 ---
 
 ## 3. **Shadrach, Meshach e Abednego na fornalha ardente (Daniel 3:19-30)**
-![3](https://github.com/user-attachments/assets/cecc9f15-036e-408f-9bc5-89bfdfd9493d)
+<img src="https://github.com/user-attachments/assets/cecc9f15-036e-408f-9bc5-89bfdfd9493d" min-width="250px" max-width="400px" width="300px" align="center">
 <br>
 Quando Nabucodonosor ordenou que todos adorassem uma estátua de ouro que ele havia erguido, Shadrach, Meshach e Abednego se recusaram, dizendo que só adorariam a Deus. Furioso, o rei ordenou que eles fossem lançados em uma fornalha ardente aquecida sete vezes mais do que o normal. Mesmo assim, eles confiaram em Deus para protegê-los. Quando foram jogados na fornalha, algo milagroso aconteceu: eles não foram queimados, e um quarto ser, semelhante a um "filho dos deuses", apareceu andando com eles no meio do fogo. Nebucodonosor ficou espantado e os chamou para fora, reconhecendo o poder do Deus deles. Shadrach, Meshach e Abednego saíram da fornalha sem nenhum dano, nem mesmo o cheiro de fogo em suas roupas, e o rei proclamou que ninguém poderia falar mal do Deus deles.
 
 ---
 
 ## 4. **Daniel na cova dos leões (Daniel 6:16-23)**
-![4](https://github.com/user-attachments/assets/1d6eebcb-e17f-4d95-ad7f-06b4aeb293d9)
+<img src="https://github.com/user-attachments/assets/1d6eebcb-e17f-4d95-ad7f-06b4aeb293d9" min-width="250px" max-width="400px" width="300px" align="center">
 <br>
 Mais tarde, no reinado do rei Dario, Daniel foi promovido a uma posição de destaque no império, o que despertou a inveja de outros governantes. Eles convenceram o rei a emitir um decreto proibindo que qualquer pessoa orasse a qualquer deus ou homem, exceto ao próprio rei, durante trinta dias. Daniel, fiel a Deus, continuou orando três vezes ao dia, como de costume. Seus inimigos o denunciaram, e o rei, relutantemente, ordenou que Daniel fosse jogado na cova dos leões, pois a lei dos medos e persas não podia ser revogada. No entanto, Deus enviou um anjo para fechar a boca dos leões, e Daniel permaneceu ileso. Na manhã seguinte, o rei Dario correu até a cova e, ao ver que Daniel estava vivo, o libertou, exaltando o Deus de Daniel como o Deus vivo e eterno.
 
