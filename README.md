@@ -47,7 +47,7 @@ Daniel, junto com seus três amigos Shadrach, Meshach e Abednego, foi levado com
 ---
 
 ## 2. **Daniel interpreta o sonho de Nabucodonosor (Daniel 2:31-45)**
-![2](https://github.com/user-attachments/assets/a26e69db-eba6-47d7-89fe-8810060575b4)
+<img src="https://github.com/user-attachments/assets/a26e69db-eba6-47d7-89fe-8810060575b4" min-width="250px" max-width="400px" width="300px" align="center">
 <br>
 O rei Nabucodonosor teve um sonho perturbador que ninguém conseguia interpretar, até que Daniel foi chamado. Daniel orou a Deus e recebeu a interpretação do sonho. Ele revelou ao rei que o sonho era sobre uma grande estátua composta de diferentes materiais: a cabeça de ouro, o peito e os braços de prata, o ventre e as coxas de bronze, as pernas de ferro, e os pés de ferro misturado com barro. Daniel explicou que a estátua representava uma sequência de reinos que se sucederiam, sendo o de Nabucodonosor o de ouro. No entanto, uma pedra, não cortada por mãos humanas, destruiria a estátua, simbolizando que o reino de Deus prevaleceria sobre todos os reinos humanos. O rei ficou impressionado com a sabedoria de Daniel e o promoveu a uma posição elevada no reino.
 
