@@ -32,8 +32,8 @@ Leonardo AI
 processo de criação bem simples passando a seguinte especificação para a AI "Uma cena vibrante e movimentada da Praia de Copacabana em 1980, com um céu ensolarado com algumas nuvens finas e uma luz quente e dourada lançando um brilho suave na costa lotada."
 
 ## 🚀 Resultados
-![Leonardo_Phoenix_A_vibrant_and_bustling_scene_of_Copacabana_Be_0](https://github.com/user-attachments/assets/ab760271-7590-47f2-a1db-e75954264e55)
-![Leonardo_Phoenix_A_vibrant_and_bustling_scene_of_Copacabana_Be_3](https://github.com/user-attachments/assets/70c4079a-41a2-4067-9a47-7c21410d117d)
+[Leonardo_Phoenix_A_vibrant_and_bustling_scene_of_Copacabana_Be_0](https://github.com/user-attachments/assets/ab760271-7590-47f2-a1db-e75954264e55)
+[Leonardo_Phoenix_A_vibrant_and_bustling_scene_of_Copacabana_Be_3](https://github.com/user-attachments/assets/70c4079a-41a2-4067-9a47-7c21410d117d)
 
 
 
