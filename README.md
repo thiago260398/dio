@@ -23,19 +23,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto de uma imagem dos anos 80 trazendo a essência da Praia do Copacabana no Rio de Janeiro o mais real possível
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leonardo AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+processo de criação bem simples passando a seguinte especificação para a AI "Uma cena vibrante e movimentada da Praia de Copacabana em 1980, com um céu ensolarado com algumas nuvens finas e uma luz quente e dourada lançando um brilho suave na costa lotada."
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Leonardo_Phoenix_A_vibrant_and_bustling_scene_of_Copacabana_Be_0](https://github.com/user-attachments/assets/ab760271-7590-47f2-a1db-e75954264e55)
+[Leonardo_Phoenix_A_vibrant_and_bustling_scene_of_Copacabana_Be_3](https://github.com/user-attachments/assets/70c4079a-41a2-4067-9a47-7c21410d117d)
+
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+As IAS hoje em dia podem nos ajudar de diversas formas simplificando trabalhos para os desenvolvedores
 ```
 
 ### Exemplos e Insigths
